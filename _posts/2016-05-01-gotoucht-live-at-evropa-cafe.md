@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "GO'TOUCH'T Live at Evropa Cafe"
-datePublished: '2016-05-01T14:00:27.281Z'
-dateModified: '2016-05-01T14:00:19.297Z'
+description: "GO'TOUCH'T announce first live for 2016th - @Evropa Cafe"
+datePublished: '2016-05-01T14:02:30.334Z'
+dateModified: '2016-05-01T14:01:32.929Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-gotoucht-live-at-evropa-cafe.md
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/221bff44-c8fb-4b34-b9d2-fd3f5d952c82.jpg)
 
-GO'TOUCH'T Live at Evropa Cafe
+GO'TOUCH'T announce first live for 2016th - @Evropa Cafe
