@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "GO'TOUCH'T announce first live for 2016th - @Evropa Cafe"
-datePublished: '2016-05-01T14:12:47.580Z'
-dateModified: '2016-05-01T14:08:29.498Z'
+datePublished: '2016-05-01T14:13:07.304Z'
+dateModified: '2016-05-01T14:12:54.105Z'
 title: ''
 author:
   - name: ''
