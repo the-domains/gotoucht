@@ -1,8 +1,8 @@
-name: "go'touch't"
+name: gotoucht
 favicon: null
-layout_spectrum: 0.65258
+layout_spectrum: 0.5496640068013221
 typography_spectrum: 0.48594733187928796
-title: null
+title: "GO'TOUCH'T"
 cta:
   domain: null
   bucket: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#004776'
-    - '#f7e3c8'
-    - '#83adc2'
-    - '#5c8ba4'
-    - '#010103'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
   brandStrength: 0
   lightness: 0.5812062011100352
   saturation: 0.1037390036508441
